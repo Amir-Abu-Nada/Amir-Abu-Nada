@@ -149,22 +149,22 @@ class AmirAbuNada extends BackendEngineer
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Professional Journey
 
 ```
- 2021  ──────  Web Developer Intern @ Shift ICT
-                └─ Built CRM system with Laravel
+ 06/2021 - 09/2021  ──  Web Developer Intern @ Shift ICT
+                        └─ Built CRM system with Laravel
 
- 2022  ──────  PHP Developer (Contract) @ PDX General Trading
-                └─ Digitalized company processes: Sales, HRM, Support systems
+ 06/2022 - 11/2022  ──  PHP Developer (Contract) @ PDX General Trading
+                        └─ Digitalized company processes: Sales, HRM, Support systems
 
- 2022  ──────  Software Engineer (Full-time) @ Too Pop Tech
-  ┃             ├─ Laravel web apps with real-time features
-  ┃             ├─ Server administration & CI/CD pipelines
-  ┃             └─ Redis caching, queues & WebSocket integration
-  ▼
- 2025  ──────  B.Sc. Software Development @ IUGAZA
-                └─ Graduation project: AI-powered platform with OpenAI API
+ 03/2022 - 01/2026  ──  Software Engineer (Full-time) @ Too Pop Tech
+         ┃              ├─ Laravel web apps with real-time features
+         ┃              ├─ Server administration & CI/CD pipelines
+         ┃              └─ Redis caching, queues & WebSocket integration
+         ▼
+ 02/2020 - 02/2025  ──  B.Sc. Software Development @ IUGAZA
+                        └─ Graduation project: AI-powered platform with OpenAI API
 
- 2026  ──────  📍 Based in Düsseldorf, Germany
-                └─ Ready for new challenges!
+ 2026 - Present     ──  📍 Based in Düsseldorf, Germany
+                        └─ Ready for new challenges!
 ```
 
 ---
