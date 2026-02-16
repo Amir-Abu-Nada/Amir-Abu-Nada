@@ -156,10 +156,9 @@ class AmirAbuNada extends BackendEngineer
                         └─ Digitalized company processes: Sales, HRM, Support systems
 
  03/2022 - 01/2026  ──  Software Engineer (Full-time) @ Too Pop Tech
-         ┃              ├─ Laravel web apps with real-time features
-         ┃              ├─ Server administration & CI/CD pipelines
-         ┃              └─ Redis caching, queues & WebSocket integration
-         ▼
+                        ├─ Laravel web apps with real-time features
+                        ├─ Server administration & CI/CD pipelines
+                        └─ Redis caching, queues & WebSocket integration
  02/2020 - 02/2025  ──  B.Sc. Software Development @ IUGAZA
                         └─ Graduation project: AI-powered platform with OpenAI API
 
