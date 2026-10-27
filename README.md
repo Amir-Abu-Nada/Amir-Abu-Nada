@@ -52,7 +52,7 @@ class AmirAbuNada extends BackendEngineer
             'Arabic'  => '🟢 Native',
             'Russian' => '🟢 Native',
             'English' => '🔵 C1 - Advanced',
-            'German'  => '🟡 B1 - Intermediate',
+            'German'  => '🟡 B2 - Intermediate',
         ];
     }
 
